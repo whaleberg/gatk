@@ -57,7 +57,7 @@ repositories {
 }
 
 final requiredJavaVersion = "8"
-final htsjdkVersion = System.getProperty('htsjdk.version','2.16.0-12-g16704e6-20180904.205932-1')
+final htsjdkVersion = System.getProperty('htsjdk.version','2.16.0-14-ge37d8de-20180906.174041-1')
 final picardVersion = System.getProperty('picard.version','2.18.7')
 final barclayVersion = System.getProperty('barclay.version','2.1.0')
 final sparkVersion = System.getProperty('spark.version', '2.2.0')
